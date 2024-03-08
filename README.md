@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Schurhaus</h1>
-<h3 align="center">A Dedicated frontend developer from Brazil and Luxembourg</h3>
+<h3 align="center">A Dedicated frontend developer from Brazil 🇧🇷 and Luxembourg 🇱🇺</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
