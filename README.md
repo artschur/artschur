@@ -1,9 +1,1 @@
-<h1 >Hi 👋, I'm Arthur Schurhaus! <br> 
-A Passionate backend developer from Brazil and Luxembourg 🇧🇷 🇱🇺 <br>
-</h1>
-  <h2>I am currently a student at Brazil's Federal University of Santa Catarina and am passionate about music, data science and solving problems efficiently.</h2>
-
-
-
-Connect with me here! <a href="https://linkedin.com/in/arthurschur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthurschur" height="30" width="40" /></a>
-
+Hello, im arthur. I am studying backend development with a solid comprehension in frontend dev already (TailwindCSS). Now my focus is on flask and django web dev, and undersatanding migrations, dbs, query, and SQL. Follow my journey and take a look at my repositories to see my growth!
