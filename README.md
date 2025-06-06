@@ -1,1 +1,4 @@
-<h1>Hello, im arthur. 🇧🇷🇱🇺 </h1>I work with php and vuejs currently and make my personal projects with typescript / nextjs. I work with SQL, and have experience with orms like drizzle; have worked building rest apis in python with tools like fastapi as well; <br>
+<h1>Hello, im arthur. 👋🏻 </h1> Working currently with Golang, building API's and aimed on mastering this beautiful language. I also have deep experience and knowledge with NextJS, react and typescript.
+<br/>
+
+Some tools i use at work are: Docker, PostgreSQL, Redis, Websockets.
